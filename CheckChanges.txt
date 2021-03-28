@@ -1,3 +1,4 @@
 First edit in Feature_Branch
 Second edit in Feature_Branch
 First edit in Merge_Branch
+Verify pull -r option
